@@ -4,7 +4,7 @@ env:
   CONFIGURATION: "repos.json"
   OUT_DIR: "out"
 
-于:
+on:
   workflow_dispatch:
 
 jobs:
